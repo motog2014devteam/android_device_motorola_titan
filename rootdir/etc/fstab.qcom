@@ -12,7 +12,7 @@
 /dev/block/platform/msm_sdcc.1/by-name/recovery     /recovery    emmc    defaults                                                                       recoveryonly
 
 # Sdcard
-/devices/msm_sdcc.2/mmc_host*                       auto         auto    defaults                                                                       voldmanaged=sdcard1:auto,noemulatedsd
+/devices/msm_sdcc.2/mmc_host                        auto         auto    defaults                                                                       voldmanaged=sdcard1:auto,migrate=target,noemulatedsd
 /devices/platform/msm_hsusb_host/usb1               auto         auto    defaults                                                                       voldmanaged=usbdisk:auto
 
 # ZRam
