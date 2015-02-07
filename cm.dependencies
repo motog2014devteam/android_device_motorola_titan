@@ -1,5 +1,12 @@
 [
   {
+    "account": "motog2014devteam",
+    "repository": "android_kernel_motorola_titan-OLD",
+    "target_path": "kernel/motorola/titan",
+    "revision": "cm-12.0"
+  },
+  {
+    "account": "motog2014devteam",
     "repository": "android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common"
   }
