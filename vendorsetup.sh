@@ -1,0 +1,2 @@
+add_lunch_combo aosp_titan-userdebug
+add_lunch_combo aosp_titan-user
